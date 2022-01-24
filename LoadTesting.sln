@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "LoadTesting", "LoadTesting\LoadTesting.dtproj", "{F9247902-486E-4CF7-8424-2F64622C679C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9247902-486E-4CF7-8424-2F64622C679C}.Development|Default.ActiveCfg = Development
+		{F9247902-486E-4CF7-8424-2F64622C679C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E78AFB-064A-44E4-BCFB-5438CCD6E42C}
+	EndGlobalSection
+EndGlobal
